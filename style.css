@@ -1,0 +1,74 @@
+body{
+    text-align: center;
+    margin: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logo img{ width: 200px;
+          margin: 1rem 0;}
+          
+.titolo1{padding: 1rem 0;
+     border-top: 1px solid #ffd977;
+     color: #004d4d;
+     font-size: 0.8rem;
+     margin-bottom: 4rem;
+     background-color: #fefbf1;}
+.testo{
+       font-weight: bold;}  
+#main {    width: 50%;
+           text-align: left;
+           margin: auto;}  
+.sezione1{  text-align: center;
+            margin-bottom: 2rem;
+}
+.paragrafo span{ 
+              font-size: 0.7em;
+              font-weight: bold;}
+        
+          
+.paragrafo{display: block;
+     margin-block-start: 1em;
+     margin-block-end: 1em;
+     margin-inline-start: 0px;
+     margin-inline-end: 0px;
+     }
+.sezione1 img{width:100%}
+.sottoimmagine h5{  text-align: center;
+               
+                 color: rgba(94, 94, 94, 0.4);
+                 
+               }
+       
+.sotto2{
+     border-left: 1px solid #ffd977;
+     padding-left: 1rem;
+     margin-bottom: 2rem;
+     text-align: left;
+ }
+.sotto2 span{    color: #b5460f;
+                 display: block;
+              font-family: Georgia,serif;}
+
+.sotto2 a {
+     cursor: pointer;
+    text-decoration: underline;
+    color: darkcyan;
+}
+.article h2{    border-bottom: 1px solid rgb(197, 243, 243);
+                margin-bottom: 2rem;
+                padding-bottom: 1rem;
+                font-weight: 100;
+                text-align:left}
+
+.article h3{
+     text-align: left;
+
+}
+.article li{margin-bottom:  1em;}
+.fine h2   {        border-bottom: 1px solid rgb(197, 243, 243);
+                    margin-bottom: 2em;
+                    padding-bottom: 1em;
+                    font-weight: 100;
+                    margin-top: 2em;
+ }
+
+#footer a{color: darkcyan;}
